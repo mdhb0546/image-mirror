@@ -4,6 +4,6 @@ registry.cn-hangzhou.aliyuncs.com:
 registry.cn-shenzhen.aliyuncs.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-$TARGET_REGISTRY:
+swr.cn-south-1.myhuaweicloud.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
