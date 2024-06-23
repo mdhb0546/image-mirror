@@ -4,6 +4,6 @@ registry.cn-hangzhou.aliyuncs.com:
 registry.cn-shenzhen.aliyuncs.com:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
-cis-hub-yaan-1.cmecloud.cn:
+langfang-registry.cucloud.cn:
   username: $TARGET_REGISTRY_USER
   password: $TARGET_REGISTRY_PASSWORD
